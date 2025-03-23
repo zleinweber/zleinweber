@@ -82,7 +82,11 @@ I care deeply about making infrastructure intuitive — not just for machines, b
 
 ## Values
 
-*Coming soon*
+I approach problems with calm rationality and methodical clarity.
+
+In systems engineering, reliability is the core value — everything else is in sevice of that.
+
+I also value kindness — in communication, in collaboration, and in the way we build tools for others to use.
 
 ## Beyond Tech
 
@@ -91,3 +95,5 @@ I care deeply about making infrastructure intuitive — not just for machines, b
 ## Let's Connect
 
 *Coming soon*
+
+> This profile is a work in progress — more coming soon!
