@@ -1,18 +1,93 @@
-## zleinweber
+# Hi, I'm Zachary Leinweber
 
-I am zleinweber
+Hey there! I'm Zach (aka zleinweber), a systems engineer who loves clean infrastructure, clean code, and good music.
 
-<!--
-**zleinweber/zleinweber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
 
-Here are some ideas to get you started:
+By day, I lead the Infrastructure Systems Engineering team at a trading firm. We're the ones who keep the Linux systems — and the infrastructure services that rely on them — running fast, reliably, and transparently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We manage critical infrastructure like Postgres, Redpanda, and Prometheus, with a strong emphasis on automation and reproducibility. If it can be expressed in Ansible or Terraform, it probably is.
+
+I care deeply about making infrastructure intuitive — not just for machines, but for the humans who work with it.
+
+## My Stack
+
+### Languages & Scripting
+
+- Bash
+- Python
+- Java
+- Go (in progress)
+- JavaScript (rusty but serviceable)
+
+### Operating Systems
+
+- Linux (expert-level)
+- systemd
+- Kernel internals
+- Boot/init
+- Packaging
+
+### Infrastructure & Automation
+
+- Ansible
+- Terraform
+- PXE and iPXE
+- cloud-init
+- Packer
+
+### Monitoring & Observability
+
+- Prometheus
+- Alertmanager
+- Loki
+- Grafana
+- Vector, Alloy, Node Exporter
+
+### Databases & Messaging
+
+- PostgreSQL
+- Redpanda (Kafka-compatible)
+- CockroachDB
+- MongoDB
+- Aeron (high-performance messaging)
+
+### Networking
+
+- LACP
+- Arista switches
+- Unifi
+- VLANs
+- Firewalls
+
+### Tooling & Platform
+
+- Git
+- GitHub Actions
+- Gradle
+- Docker
+- Nomad
+- Consul
+- Kubernetes (light usage)
+
+### Philosophies
+
+- Infrastructure as Code
+- Test-Driven Development
+- Reliability-first design
+
+## Projects and Interests
+
+*Coming soon*
+
+## Values
+
+*Coming soon*
+
+## Beyond Tech
+
+*Coming soon*
+
+## Let's Connect
+
+*Coming soon*
